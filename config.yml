@@ -2,7 +2,7 @@ version: "1.0.0"
 
 # Bot identity
 bot:
-  name: "Openrook"
+  name: "OpenRook"
   description: "AI Assistant with skills and tools"
 
 # Database configuration

@@ -1,6 +1,6 @@
-# Openrook Starter Template
+# OpenRook Starter Template
 
-This is the official starter template for [Openrook](https://github.com/openrook/openrook).
+This is the official starter template for [OpenRook](https://github.com/openrook/openrook).
 
 ## Quick Start
 
@@ -35,7 +35,7 @@ Edit `config.yml` to customize your bot:
 ```yaml
 bot:
   name: "My Assistant"
-  description: "AI Assistant powered by Openrook"
+  description: "AI Assistant powered by OpenRook"
 
 llm:
   provider: "anthropic"
@@ -90,7 +90,7 @@ openrook config             # Show configuration
 
 ## Learn More
 
-- [Openrook Documentation](https://openrook.io/docs)
+- [OpenRook Documentation](https://openrook.io/docs)
 - [GitHub Repository](https://github.com/openrook/openrook)
 - [Creating Skills](https://github.com/openrook/openrook/blob/main/docs/skills.md)
 - [Creating Tools](https://github.com/openrook/openrook/blob/main/docs/tools.md)

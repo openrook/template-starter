@@ -17,7 +17,7 @@ security:
 
 ## Overview
 
-This skill demonstrates how to create skills for Openrook. It provides friendly greetings to users.
+This skill demonstrates how to create skills for OpenRook. It provides friendly greetings to users.
 
 ## Steps
 
